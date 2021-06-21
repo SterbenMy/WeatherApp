@@ -1,0 +1,13 @@
+<TextView
+    android:paddingTop="20dp"
+    android:paddingLeft="20dp"
+    android:id="@android:id/title"
+    android:textColor="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textAllCaps="false"
+    android:text="@string/messages_header"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+

@@ -1,0 +1,21 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+<PreferenceScreen
+    app:title="@string/settings"
+    app:key="settings"
+    app:layout="@layout/prefscreen">
+</PreferenceScreen>
+<PreferenceCategory app:layout="@layout/textcolor" app:title="@string/messages_header">
+        <EditTextPreference
+            app:key="signature"
+            app:title="@string/signature_title"
+            app:useSimpleSummaryProvider="true" />
+        
+</PreferenceCategory>
+        <PreferenceCategory app:layout="@layout/textcolor" app:title="@string/sync_header">
+        <SwitchPreferenceCompat
+            app:key="sync"
+            app:title="@string/sync_title"
+            app:summaryOn="@string/attachment_summary_on"
+            app:summaryOff="@string/attachment_summary_off"/>
+        </PreferenceCategory>
+</PreferenceScreen>

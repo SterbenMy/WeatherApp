@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">weatherApp</string>
+    <string name="findAnother">Get weather for Another Location</string>
+    <string name="settingImg">Settings</string>
+    <string name="txtTime">14:30</string>
+    <string name="txtDate">20 April 2012</string>
+    <string name="txtAddress">Bucharest, Ro</string>
+    <string name="btnNext">Next Activity</string>
+    <string name="txtStatus">Clear Sky</string>
+    <string name="txtTemp">29°C</string>
+    <string name="txtTemp_min">Min Temp: 05:05 </string>
+    <string name="txtTemp_max">Max Temp: 05:05 </string>
+    <string name="imgSunrise">Sunrise</string>
+    <string name="txtSunrise">06:40</string>
+    <string name="imgSunset">Sunset</string>
+    <string name="txtSunset">06:40</string>
+    <string name="imgWind">Wind</string>
+    <string name="txtWind">06:40</string>
+    <string name="imgPressure">Pressure</string>
+    <string name="txtPressure">06:40</string>
+    <string name="imgHumidity">Humidity</string>
+    <string name="txtHumidity">06:40</string>
+    <string name="errorText">Wrong Data</string>
+    <string name="btnBack">Back</string>
+    <string name="txtSearch">Search</string>
+    <string name="etxSearch"></string>
+    <string name="txtHints">Write City Name</string>
+    <string name="txtCityName">City</string>
+    <string name="btnRefresh">Refresh</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="btnSetNot">Set Notification</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Username</string>
+    <string name="sync_header">Color Settings</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">My Name</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Set Dark Mode</string>
+    <string name="attachment_summary_on">Dark Mode is On</string>
+    <string name="attachment_summary_off">Dark Mode is Off</string>
+</resources>
