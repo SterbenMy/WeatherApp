@@ -45,7 +45,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    final String API_KEY = "8fa399d7bdf341d455ccc2482838debf";
+    final String API_KEY = "your_token";
     final String API_URL = "https://api.openweathermap.org/data/2.5/weather?";
 
     String todayweather;
